@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @zhashmik  
+<p align="center"><strong>Hi, I’m Zahra 👋</strong></p>
+  
 - 👀 I’m interested in developing smart web solutions.  
 - 🌱 I’m currently deep-diving into the MERN stack and mastering modern web development practices.  
 - 💞️ I’m looking to collaborate on innovative full-stack projects and real-world web apps.  
